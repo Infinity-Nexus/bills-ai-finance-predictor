@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bills</string>
+    <string name="nav_bar_item_home_name">Home</string>
+    <string name="nav_bar_item_budget_name">Budget</string>
+    <string name="nav_bar_item_add_name">Add</string>
+    <string name="nav_bar_item_prediction_name">Prediction</string>
+    <string name="nav_bar_item_search_name">Search</string>
+    <string name="balance_headline_name">Balance</string>
+    <string name="saving_plans_list_name">Saving Plans</string>
+    <string name="last_transactions_list_name">Last Transactions</string>
+    <string name="savings_headline_name">Savings</string>
+    <string name="dept_headline_name">Dept</string>
+    <string name="budget_tab_row_item_income_name">Income</string>
+    <string name="budget_tab_row_item_expenses_name">Expenses</string>
+    <string name="recurring_transactions_list_name">Recurring Transactions</string>
+    <string name="prediction_headline_name">Prediction</string>
+    <string name="prediction_selection_item_income_name">Income</string>
+    <string name="prediction_selection_item_expenses_name">Expenses</string>
+    <string name="add_option_transaction_title">Transaction</string>
+    <string name="add_option_saving_plan_title">Saving Plan</string>
+    <string name="add_option_recurring_transaction_title">Recurring Transaction</string>
+    <string name="cancel_button_name">Cancel</string>
+    <string name="confirm_button_name">Confirm</string>
+    <string name="search_banner_ad_id">ca-app-pub-5525588913723360/3298489247</string>
+    <string name="prediction_interstitial_ad_id">ca-app-pub-5525588913723360/8623786353</string>
+    <string name="add_options_interstitial_ad_id">ca-app-pub-5525588913723360/7310704685</string>
+</resources>
