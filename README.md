@@ -1,6 +1,8 @@
 # Bills
 
-![Feature graphic](docs/banner.png)
+![first banner](docs/banner.png)
+![second banner](docs/banner2.png)
+
 
 Bills is a finance management app providing powerful tools to simplify and optimize your financial planning process.
 
