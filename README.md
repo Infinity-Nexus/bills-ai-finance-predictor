@@ -8,13 +8,13 @@ Bills is a finance management app providing powerful tools to simplify and optim
 
 #### Key features:
 
-- Transaction Management 💰
+- Transaction Management 
 
-- Recurring Transactions ⏰
+- Recurring Transactions 
 
-- Saving Plans 🐖
+- Saving Plans 
 
-- Intelligent Predictions 🤖
+- Intelligent Predictions 
 
 ## Contributing
 
